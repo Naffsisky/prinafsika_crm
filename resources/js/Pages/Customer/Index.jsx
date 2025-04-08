@@ -2,7 +2,6 @@ import AuthenticatedLayout from "@/Layouts/AuthenticatedLayout";
 import { Head, router } from "@inertiajs/react";
 
 export default function Index({ customers }) {
-    console.log(customers);
     return (
         <AuthenticatedLayout
             header={
