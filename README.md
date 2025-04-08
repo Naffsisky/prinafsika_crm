@@ -2,7 +2,7 @@
 
 Proses pengerjaan (coding & deployment):
 
-`7 April 2025 - 8 April 2025`
+`7 April 2025 - 9 April 2025`
 
 ### Laravel + ReactJS
 
