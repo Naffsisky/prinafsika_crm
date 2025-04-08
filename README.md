@@ -1,5 +1,9 @@
 # Application
 
+Proses pengerjaan (coding & deployment):
+
+`7 April 2025 - 8 April 2025`
+
 ### Laravel + ReactJS
 
 -   Laravel 12 (Inertia + Breeze)
@@ -17,7 +21,7 @@
 
 #### User
 
-`Login -> Memilih Produk -> Mengisi Data Diri -> Menunggu Approval Admin -> Melihat Status Approval`
+`Login -> Memilih Produk -> Mengisi Data Diri dan Alamat Pemasangan -> Menunggu Approval Admin -> Melihat Status Approval`
 
 #### Admin
 
