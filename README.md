@@ -4,6 +4,11 @@ Proses pengerjaan (coding & deployment):
 
 `7 April 2025 - 9 April 2025`
 
+### Akun Admin
+
+email: admin@admin.com
+password: password
+
 ### Laravel + ReactJS
 
 -   Laravel 12 (Inertia + Breeze)
